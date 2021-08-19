@@ -1,0 +1,4 @@
+# name;age;height
+Anna;19;168.00
+Sam;33;175.50
+Pam;23;180.00
