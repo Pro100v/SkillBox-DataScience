@@ -8,4 +8,6 @@ JSON/*.csv
 
 JSON/*.xlsx
 
-.vscode/settings.json
+# .vscode/settings.json
+
+probe.*
